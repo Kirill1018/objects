@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "synchronization objects", "Synchronization objects\synchronization objects.csproj", "{9950CE8A-B14D-4C3D-97E5-B4E4BB70FC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9950CE8A-B14D-4C3D-97E5-B4E4BB70FC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9950CE8A-B14D-4C3D-97E5-B4E4BB70FC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9950CE8A-B14D-4C3D-97E5-B4E4BB70FC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9950CE8A-B14D-4C3D-97E5-B4E4BB70FC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90421F1F-17AC-4EF8-8469-F9FD23DC453D}
+	EndGlobalSection
+EndGlobal
